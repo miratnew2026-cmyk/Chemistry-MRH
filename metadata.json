@@ -1,0 +1,6 @@
+{
+  "name": "CHEM-X Virtual Chemistry Laboratory",
+  "description": "Interactive virtual chemistry simulation laboratory for Class 9–10 students. Explore 118 elements, mix compounds, simulate heat and reactions, balance equations, and learn chemistry in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
